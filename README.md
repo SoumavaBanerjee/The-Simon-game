@@ -9,8 +9,8 @@ Level will keep rising till you make a mistake. It's time to boast your memory p
 https://quirky-pasteur-ad6ec2.netlify.app
 
 ## Technologies used:
--HTML5
--CSS3
--javascript
--Jquery
+- HTML5
+- CSS3
+- javascript
+- Jquery
 
