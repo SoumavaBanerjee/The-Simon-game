@@ -1,4 +1,4 @@
-# Memorizer
+# The Simon game
 A fun memory game.
 
 # Instructions:
